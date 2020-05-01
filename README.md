@@ -1,3 +1,3 @@
-Guessing Game
-Fri May  1 07:45:56 UTC 2020
-24
+# Guessing game
+- **DATE AND TIME :2020-05-01T08:57:54+00:00**
+- *Number of lines in my code:24*
