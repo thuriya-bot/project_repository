@@ -1,5 +1,5 @@
 
-let actual_num=$(eval  ls | wc -w )
+let actual_num=$(ls -lart | wc -l )
 let flag=0
 #Function 'evalulate' evaluates the entered number
 function evaluate {
